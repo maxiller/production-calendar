@@ -15,3 +15,15 @@
 - calendar
 - datetime
 - BeautifulSoup
+
+**Пример за год**
+
+```python
+get_production_calendar(2021)
+```
+
+**Пример за период**
+
+```python
+get_production_calendar(2010,2021)
+```
